@@ -66,7 +66,7 @@ $ gem install sinatra-contrib
 $ cd /project_folder
 ```
 ```
-$ ruby appmock.rb
+$ ruby mock-server.rb
 ```
 ```
 RUBY THIN SERVER STARTS AT:
@@ -78,7 +78,7 @@ CommandLine do "CTRL + C"  to stop running the server
 ## Integrate Mock Server endpoint with ios apps
 
 To run UI Automated tests with the app pointing to the mock server, 
-change create a target pointing to the mockserver endpoint:
+create a target pointing to the mockserver endpoint:
 </p>
 <dd>L > Mock : http://127.0.0.1:8443</dd>
 </p>
