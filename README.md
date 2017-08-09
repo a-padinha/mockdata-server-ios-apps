@@ -80,11 +80,11 @@ CommandLine do "CTRL + C"  to stop running the server
 To run UI Automated tests with the app pointing to the mock server, 
 create a target pointing to the mockserver endpoint:
 </p>
-<dd>L > Mock : http://127.0.0.1:8443</dd>
+<dd> Mock : http://127.0.0.1:8443</dd>
 </p>
 For SSL use dapplie SSL free certificates
 </p>
-<dd>L > Mock : https://localhost.daplie.me:8443</dd>
+<dd> Mock : https://localhost.daplie.me:8443</dd>
 </p>
 
 ### Emulator Setup
