@@ -1,4 +1,4 @@
-# Mock Server for ios appss    
+# Mock Server for ios apps
 
 <dd>This is a mock data server setup can be used to support UI Automation tests running on emulator or real device</dd>
 <dd>Ruby Thin server + Sinatra DSL + Daplie.me free SSL certificates</dd>
