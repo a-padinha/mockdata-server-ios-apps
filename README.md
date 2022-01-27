@@ -2,6 +2,7 @@
 
 <dd>This is a mock data server setup can be used to support UI Automation tests running on emulator or real device</dd>
 <dd>Contains: Ruby Thin server + Sinatra DSL + Daplie.me free SSL certificates</dd>
+<dd><img width="1023" alt="Screenshot 2022-01-26 at 22 10 16" src="https://user-images.githubusercontent.com/10550674/151395026-961a2820-260a-411c-b33e-d8f3baf0a2b1.png"></dd>
 
 </p>
 
@@ -98,3 +99,5 @@ For SSL use dapplie SSL free certificates
 - Open Charles Proxy go to Proxy > SSL Proxying > Add : 127.0.0.1:8443 or localhost.daplie.me:8443
 - Charles Proxy > Help > SSL Proxying > (4th option) Install certificate on Device > configure the device to the IP address (example: 10.5.19.19:8888) TODO:. Replace Charles Proxy for a commandline tool.
 - Run UI Tests
+
+
